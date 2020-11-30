@@ -10,7 +10,7 @@ npm-debug.*
 web-build/
 
 keys.txt
-api/*
+src/api/*
 
 # macOS
 .DS_Store
